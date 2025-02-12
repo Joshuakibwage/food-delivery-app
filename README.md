@@ -65,4 +65,4 @@ If you’d like to contribute, feel free to fork this repo and submit a pull req
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-**Made with ❤️ by [Joshua Kibwage]**
+**Made with ❤️ by [ Joshua Kibwage ]**
